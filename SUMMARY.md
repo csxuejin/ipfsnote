@@ -1,4 +1,4 @@
-# IPFS 相关学习
+# IPFS 学习笔记
 
 * [Introduction](README.md)
 * [ipfs](ipfs/readme.md)

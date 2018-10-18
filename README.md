@@ -1,5 +1,13 @@
-# IPFS 相关学习笔记 
+# IPFS 学习笔记 
 
-
-主要记录 ipfs, ipfs-cluster 学习和实验过程的笔记，供日后自己与他人参考。
-
+* [Introduction](README.md)
+* [ipfs](ipfs/readme.md)
+    * [supervisor 管理 ipfs](ipfs/supervisor.md)
+* [ipfs-cluster](ipfs-cluster/readme.md)
+    * [supervisor 管理 ipfs-cluster-service](ipfs-cluster/supervisor.md)
+    * [集群启动方式一：预设置集群节点](ipfs-cluster/peerset.md)
+    * [集群启动方式二：动态添加新节点](ipfs-cluster/bootstrap.md)
+    * [两种集群启动方式比较](ipfs-cluster/compare.md)
+    * [实验：ipfs-cluster 存储和回收](ipfs-cluster/storage.md)
+    * [实验：集群节点故障](ipfs-cluster/peer-down.md)
+* [参考文献](reference.md)
