@@ -10,4 +10,5 @@
     * [两种集群启动方式比较](ipfs-cluster/compare.md)
     * [实验：ipfs-cluster 存储和回收](ipfs-cluster/storage.md)
     * [实验：集群节点故障](ipfs-cluster/peer-down.md)
+    * [实验：压测](ipfs-cluster/pressure.md)
 * [参考文献](reference.md)
