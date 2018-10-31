@@ -25,4 +25,6 @@ IPFS 相关学习笔记，包括：
 
 csxuejin@gmail.com
 
-https://github.com/csxuejin/ipfsnote
+[github](https://github.com/csxuejin/ipfsnote)
+
+[gitbook](https://csxuejin.gitbooks.io/ipfsnote/content/)
