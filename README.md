@@ -18,7 +18,7 @@ IPFS 相关学习笔记，包括：
     * [实验：集群节点故障](ipfs-cluster/peer-down.md)
     * [实验：pin add 不同大小的文件](ipfs-cluster/differentsize.md)
     * [实验：多并发 pin add 操作](ipfs-cluster/pressure.md)
-* [参考文献](reference.md)
+* [References](reference.md)
 
 
 ### Author
