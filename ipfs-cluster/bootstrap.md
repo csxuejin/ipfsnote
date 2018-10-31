@@ -63,7 +63,7 @@ QmZjSoXUQgJ9tutP1rXjjNYwTrRM9QPhmD9GHVjbtgWxEn | Sees 1 other peers
     - /ip4/192.168.1.2/tcp/4001/ipfs/Qmbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 ```
 
-### Step 2: 添加新节点从集群移除
+### Step 2: 从集群移除节点
 
 命令 `ipfs-cluster-ctl peers rm <peer_id>` 可以将节点移除，如：
 

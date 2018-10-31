@@ -3,7 +3,7 @@
 - IPFS Cluster 是 IPFS 集群的编排工具。
 - 一个 IPFS 节点对应一个 IPFS Cluster 的 peer。
 - IPFS Cluster peers 采用 libp2p 进行通信，与 IPFS 类似。
-- 同一个 IPFS Cluster 的节点需要确保 Private Key 一致。
+- 同一个 IPFS Cluster 的节点需要确保 Secret 一致。
 
 ![overview](imgs/cluster-overview.png)
 
