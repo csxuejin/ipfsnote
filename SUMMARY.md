@@ -5,6 +5,7 @@
     * [supervisor 管理 ipfs](ipfs/supervisor.md)
 * [IPFS Cluster](ipfs-cluster/readme.md)
     * [概述](ipfs-cluster/overview.md)
+    * [多集群通信](ipfs-cluster/cluster-of-clusters.md)
     * [supervisor 管理 ipfs-cluster-service](ipfs-cluster/supervisor.md)
     * [集群启动方式一：预设置集群节点](ipfs-cluster/peerset.md)
     * [集群启动方式二：动态添加新节点](ipfs-cluster/bootstrap.md)
