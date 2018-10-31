@@ -4,6 +4,7 @@
 
 - 使用 ipfs-cluster 在华南区配置两个集群。集群 A 包含 south01, south02, south03 这三台机器。集群 B 包含 south04 这一台机器。
 - 四台机器的配置皆为： 2核 4G内存  5M带宽。
+- 通过设置 IPFS_PATH 环境变量使 IPFS 文件存储在一个 100G 的磁盘上。
 - 在 south04 上运行 Prometheus，在 south01、south02、south03 三台中运行 node_exporter。 Prometheus 每 5s 抓取一次 node_exporter 数据。
 - 监控图形界面采用 grafana 展示
 - 监控的指标为
